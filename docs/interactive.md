@@ -7,6 +7,10 @@ nav_order: 2
 
 ## **1.** Dozimetrik testler
 
+- [ ] Hello, this is a TODO item
+- [ ] Hello, this is another TODO item
+- [x] Goodbye, this item is done
+
 ### **1.1.** Output kontrolu
 
 **Output Kontrolu** cok onemlidir ve bu paragraf alttaki secimden bagimsiz bir sekilde gorunur olmalidir.
