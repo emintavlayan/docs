@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Interaktif
-nav_order: 6
+nav_order: 3
 ---
 
-{% include checkBox.html %}
 
 ## **1.** Dozimetrik testler
 
