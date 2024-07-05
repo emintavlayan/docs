@@ -1,0 +1,12 @@
+title: MFD-GG 
+description: Medikal Fizik Dernegi - GG Calisma Grubu Raporlari
+remote_theme: emintavlayan/jekyll-theme-rtd
+
+# Theme settings
+site_author: Emin Tavlayan
+repo_url: 'https://github.com/emintavlayan/docs'
+edit_on_github: true
+github_docs_folder: false
+sticky_navigation: true
+prev_next_buttons_location: both
+search_enabled: true
