@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Hakkimizda
-nav_order: 1
+nav_order: 2
 ---
+
+# hakkimizda
 
 ## Calisma Grubu Detaylari
 

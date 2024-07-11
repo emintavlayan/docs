@@ -1,8 +1,10 @@
 ---
 layout: default
 title: index
-docs/index.md
+nav_order: 1
 ---
+
+# anasayfa
 
 ## Selamlar
 
